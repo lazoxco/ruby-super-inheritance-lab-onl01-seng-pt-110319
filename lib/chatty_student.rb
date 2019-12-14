@@ -1,5 +1,4 @@
-class ChattyStudent 
+class ChattyStudent
 
-  
-  
+
 end 
